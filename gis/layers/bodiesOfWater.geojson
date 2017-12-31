@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Ossoute",
         "snail-type": "Truncatus"
       }
@@ -26,7 +26,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Eke",
         "snail-type": "Melanoides"
       }
@@ -41,7 +41,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Talo Gbomaho",
         "snail-type": "Big"
       }
@@ -56,7 +56,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Talo",
         "snail-type": "Melanoides"
       }
@@ -71,7 +71,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Talo/Eke",
         "snail-type": "Melanoides"
       }
@@ -86,7 +86,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Ifo-Anta",
         "snail-type": "Truncatus"
       }
@@ -101,7 +101,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Omoefoefoe",
         "snail-type": "Melanoides"
       }
@@ -116,7 +116,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Ossoute/Ifo-Ante",
         "snail-type": "Truncatus"
       }
@@ -131,7 +131,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Nangbeto/Mono",
         "snail-type": "Malanoides"
       }
@@ -146,7 +146,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "body of water",
+        "marker-symbol": "water",
         "name": "Barrage d'Akpare",
         "snail-type": "0"
       }
