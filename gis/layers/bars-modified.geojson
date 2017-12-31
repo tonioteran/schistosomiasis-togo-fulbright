@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.208656,
+          7.489987
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Ossoute",
+        "snail-type": "Truncatus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.139464,
+          7.519873
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Eke",
+        "snail-type": "Melanoides"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.168322,
+          7.492012
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Talo Gbomaho",
+        "snail-type": "Big"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.171292,
+          7.494468
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Talo",
+        "snail-type": "Melanoides"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.172688,
+          7.495009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Talo/Eke",
+        "snail-type": "Melanoides"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.201533,
+          7.494985
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Chinatown Coffee Company",
+        "snail-type": "475 H St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.189120,
+          7.451923
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Science Club",
+        "snail-type": "1136 19th St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.208300,
+          7.489991
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Wonderland Ballroom",
+        "snail-type": "  1101 Kenyon St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.286408,
+          7.435894
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Sticky Fingers Bakery",
+        "snail-type": "1370 Park Rd NW, Washington, DC 20010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.322365,
+          7.470037
+        ]
+      },
+      "properties": {
+        "marker-symbol": "body of water",
+        "name": "Busboys and Poets",
+        "snail-type": "5331 Baltimore Ave, Hyattsville, MD 20781"
+      }
+    }
+  ]
+}
