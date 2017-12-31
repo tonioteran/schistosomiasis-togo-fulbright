@@ -10,7 +10,7 @@ The GIS layer information is handled using [GeoJSON](http://geojson.org/) files 
 
 #### Bodies of Water
 
-The following bodies of water have been added to the `bodiesOfWater.geojson` file:
+The following bodies of water have been added to the [`bodiesOfWater.geojson`](https://github.com/tonioteran/schistosomiasis-togo-fulbright/blob/master/gis/layers/bodiesOfWater.geojson) file:
 
 - Ossoute
   - Long: 1.208656, Lat: 7.489987
