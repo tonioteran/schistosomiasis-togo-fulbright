@@ -24,3 +24,6 @@ The following bodies of water have been added to the [`bodiesOfWater.geojson`](h
 
 
 #### Community Health Centers
+
+There should only be one community center.
+
