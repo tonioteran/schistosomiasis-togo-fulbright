@@ -4,6 +4,8 @@ This repo houses the data collected by Olivia Kern during her Fulbright project 
 
 ## GIS Info
 
+UPDATE!!!!!
+
 ### Layers
 
 The GIS layer information is handled using [GeoJSON](http://geojson.org/) files and format.
